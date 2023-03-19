@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Library Management System**
 
-- 🌱 I’m currently learning **Java GUI**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Python ,C ,Arduino ,Java ,Kotlin**
 
