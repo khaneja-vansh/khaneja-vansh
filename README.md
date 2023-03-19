@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java GUI**
 
-- 💬 Ask me about **Python , C , Arduino , Kotlin**
+- 💬 Ask me about **Python ,C ,Arduino ,Java ,Kotlin**
 
 - 📫 How to reach me **vanshkhaneja2004@gmail.com**
 
