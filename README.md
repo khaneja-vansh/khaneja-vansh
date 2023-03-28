@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Python ,C ,Arduino ,Java ,Kotlin**
+- 💬 Ask me about **Python ,C ,Arduino ,Java ,Kotlin ,JavaScript**
 
 - 📫 How to reach me **vanshkhaneja2004@gmail.com**
 
